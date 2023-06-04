@@ -1,0 +1,4 @@
+name: NoActionCooldown
+version: '1.0-RELEASE'
+main: me.lava.noactioncooldown.NoActionCooldown
+api-version: 1.19
